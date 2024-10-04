@@ -1,1 +1,2 @@
+New thingy now
 Just following The Odin Project tutourial on git & GitHub.
